@@ -6,4 +6,4 @@ date: 2025-01-07T18:10:01.739Z
 tags:
   - created
 ---
-Sot ne daten 1/7re45mioptrmjkl
+Sot ne daten 1/7/2025,
